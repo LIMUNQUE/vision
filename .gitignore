@@ -1,0 +1,15 @@
+# Ignorar modelos y pesos
+*.pt
+*.onnx
+
+# Ignorar imágenes generadas
+cacao_crops/
+
+# Ignorar videos grandes
+*.avi
+*.mp4
+*.jpg
+
+# Otros archivos temporales
+__pycache__/
+*.pyc
